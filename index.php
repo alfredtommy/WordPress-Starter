@@ -8,7 +8,7 @@ define( 'SHORTINIT', TRUE );
 define( 'WP_USE_THEMES', TRUE );
 // Loads the WordPress Environment and Template
 require( './wpbeta/wp-blog-header.php' );
-
+// helooooooooooololololololllllllllllllllllllllll
 if ( ! empty( $_SERVER['HTTPS'] ) && ( 'on' == $_SERVER['HTTPS'] ) ) {
 	$uri = 'https://';
 } else {
